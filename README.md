@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋 I'm Ken Yamagishi
 
-<!--
-**Ken-Yamagishi/Ken-Yamagishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a graduate 🎓 of Information Technology Major in <b>Database Systems Technology</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning advance SQL and Data Visualization Tools. <br>
+📖 I use Udemy and DataCamp as my learning platforms to enhance my skills.
+
+### Skills & Expertise
+- Database Management: Designing and optimizing databases for performance and scalability.
+- Advanced SQL: Proficient in complex queries, window functions, and data transformation.
+- Data Modeling: Crafting efficient data models to support various business needs.
+- Data Visualization: Exploring tools like MS Excel, Tableau, and Power BI to turn data into actionable insights.
+
+## 💻 Tech Stack:
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+
+
+### 🚀 Future Goals
+Deepen my understanding of data engineering and explore machine learning applications in database systems.
+Contribute to open-source projects that focus on database management and data visualization.
