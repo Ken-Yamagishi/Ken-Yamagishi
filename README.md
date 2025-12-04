@@ -4,7 +4,7 @@
 
 I'm a graduate 🎓 of Information Technology Major in <b>Database Systems Technology</b>
 
-🌱 I’m currently learning advance SQL and Data Visualization Tools. <br>
+🌱 I’m currently learning advance SQL and creating ETL Pipelines using Python. <br>
 📖 I use Udemy and DataCamp as my learning platforms to enhance my skills.
 
 ### Skills & Expertise
@@ -12,6 +12,8 @@ I'm a graduate 🎓 of Information Technology Major in <b>Database Systems Techn
 - Advanced SQL: Proficient in complex queries, window functions, and data transformation.
 - Data Modeling: Crafting efficient data models to support various business needs.
 - Data Visualization: Exploring tools like MS Excel, Tableau, and Power BI to turn data into actionable insights.
+- ETL Pipelines using tools like Python.
+- Databricks (Free Edition) as learning tools.
 
 ## 💻 Tech Stack:
 
